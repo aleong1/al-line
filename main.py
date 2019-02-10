@@ -9,7 +9,7 @@ draw_line(0, 250, 499, 250, screen, color)
 #vertical
 draw_line(250, 0, 250, 499, screen, color)
 
-#slope = 1
+#slope is 1
 draw_line(0, 0, 499, 499, screen, color)
 #slope = -1
 draw_line(0, 499, 499, 0, screen, color)
